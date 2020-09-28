@@ -73,7 +73,7 @@ h1{
 	background-size: 100px;
 	border-radius: 50%;
 	top: 50%;
-	right: -20px;
+	right: -10px;
 	cursor: pointer;
 	transition: transform 0.3s;
 }
@@ -86,7 +86,7 @@ h1{
 .caroussel_prev {
 	background-image: url(images/gauche.svg);
 	right: auto;
-	left: -20px;
+	left: -10px;
 }
 
 

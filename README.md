@@ -1,0 +1,50 @@
+# caroussel
+<!DOCTYPE html>
+<html>
+<head>
+	<title>caroussel</title>
+	<link rel="stylesheet" type="text/css" href="caroussel.css">
+	<meta charset="utf-8">
+	<script type="text/javascript" src="main.js" async></script>
+</head>
+<body>
+	<header class="entete">
+		<h1>Caroussel</h1>
+	</header>
+	<div class="container">
+		<div class="title">photos</div>
+		<div id="caroussel1">
+			<div class="item">
+				<div class="item-image"> 
+				<img src="images/img1.jpg" alt="rubik" width="320" height="210">
+				</div>
+				<div class="item-title">Rubik</div>
+				<div class="item-commentaire">Ceci est un commentaire</div>
+			</div>
+			<div class="item">
+				<div class="item-image">
+				<img src="images/img2.jpg" alt="analogie" width="320" height="210">
+				</div>
+				<div class="item-title">Analogie</div>
+				<div class="item-commentaire">Ceci est un autre commentaire</div>
+			</div>
+			<div class="item">
+				<div class="item-image">
+				<img src="images/img3.jpg" alt="livres" width="320" height="210">
+				</div>
+				<div class="item-title">Livres</div>
+				<div class="item-commentaire">Voilà un autre commentaire</div>
+			</div>
+			<div class="item">
+				<div class="item-image">
+				<img src="images/img4.png" alt="cup of tea" width="640" height="420">
+				</div>
+				<div class="item-title">Cup of tea</div>
+				<div class="item-commentaire">Oh le commentaire</div>
+			</div>
+		</div>	
+	</div>
+	<footer></footer>
+
+</body>
+</html>
